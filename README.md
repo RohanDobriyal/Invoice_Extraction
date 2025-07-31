@@ -45,7 +45,7 @@ invoice\_extractor/
    ```bash
    git clone https://github.com/RohanDobriyal/Invoice_Extraction.git
    cd Invoice_Extraction
-````
+
 
 2. Install dependencies:
 
@@ -90,6 +90,3 @@ You can update the `questions` dictionary in `run_inference.py` to extract any o
 
 
 ---
-
-Let me know if you'd like a badge version or deployment instructions as well.
-```
